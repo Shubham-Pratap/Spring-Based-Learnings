@@ -1,0 +1,9 @@
+com\criteria\project\application\controller\UserController.class
+com\criteria\project\application\repository\IUserDAO.class
+com\criteria\project\application\CriteriaApi.class
+com\criteria\project\application\entity\QUser.class
+com\criteria\project\application\helper\UserSearchQueryCriteriaConsumer.class
+com\criteria\project\application\repository\UserDAO.class
+com\criteria\project\application\domain\SearchCriteria.class
+com\criteria\project\application\config\PersistenceJPAConfig.class
+com\criteria\project\application\entity\User.class
