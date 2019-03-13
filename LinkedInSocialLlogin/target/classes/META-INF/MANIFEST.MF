@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: prata
+Build-Jdk: 10.0.2
+Implementation-Title: LinkedInSocialLlogin
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.linkedin
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/LinkedInSocialLlogin
+Created-By: Maven Integration for Eclipse
+
